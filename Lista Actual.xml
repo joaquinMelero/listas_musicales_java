@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<playlist version="1">
+    <cancion1>
+        <titulo>izal-bill-murray-lyric-video.mp3</titulo>
+        <ruta>C:\Users\user\Desktop\izal\izal-bill-murray-lyric-video.mp3</ruta>
+        <duracion>132</duracion>
+    </cancion1>
+    <cancion2>
+        <titulo>Extremoduro - Golfa.m4a</titulo>
+        <ruta>C:\Users\user\Desktop\musica\Extremoduro - Golfa.m4a</ruta>
+        <duracion>196</duracion>
+    </cancion2>
+    <cancion3>
+        <titulo>supersubmarina   LN Granada.m4a</titulo>
+        <ruta>C:\Users\user\Desktop\musica\supersubmarina   LN Granada.m4a</ruta>
+        <duracion>151</duracion>
+    </cancion3>
+    <cancion4>
+        <titulo>la-moda-heroes-del-sabado-salvavida-de-las-balas-perdidas.mp3</titulo>
+        <ruta>C:\Users\user\Desktop\musica\la-moda-heroes-del-sabado-salvavida-de-las-balas-perdidas.mp3</ruta>
+        <duracion>100</duracion>
+    </cancion4>
+    <cancion5>
+        <titulo>Extremo duro - duce intro</titulo>
+        <ruta>C:\Users\user\Desktop\musica\Extremoduro - Dulce introducción al caos (Audio Oficial).m4a</ruta>
+        <duracion>125</duracion>
+    </cancion5>
+</playlist>
